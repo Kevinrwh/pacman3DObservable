@@ -1,10 +1,10 @@
-# pacman3DObservable
+# Pacman 3D Game
+
+About:
 A 3D pacman game with custom graphics built using twgl/Observable.
 
 Wanna play? Read instructions below.
 To contact: E-mail Kevinrwh28@gmail.com
-
-# Pacman 3D Game
 
 Play in Observable: https://observablehq.com/d/af339eefbff6b482@4045
 
