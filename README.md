@@ -2,6 +2,8 @@
 
 About:
 A 3D pacman game with custom graphics built using twgl/Observable.
+# Video Example
+[Download](https://github.com/Kevinrwh/pacman3DObservable/blob/main/pacman_presentation.mp4)
 
 Wanna play? Read instructions below.
 To contact: E-mail Kevinrwh28@gmail.com
